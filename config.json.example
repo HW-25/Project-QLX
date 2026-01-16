@@ -1,0 +1,7 @@
+{
+    "BRIDGE_URL": "http://your-server-ip/api/uplink",
+    "NODE_ID": "YOUR-UNIQUE-NODE-NAME",
+    "NODE_LOCATION": "Your City",
+    "IS_GREEN": false,
+    "LOG_LEVEL": "INFO"
+}

@@ -2,16 +2,17 @@
 #!/usr/bin/env python3
 """
 Project: QLX (Phase Alpha)
-Module: EON Monitor Lite v1.2.0
+Module: EON Monitor Lite v1.3.1
 Status: Public / Community Edition
 
 Description:
-A cross-platform telemetry tool designed to monitor hardware energy consumption 
-and calculate real-time compute-value (Valor) for the Quarlex Energy-Compute Nexus.
+A high-performance telemetry engine designed to bridge hardware energy metrics 
+with compute-value (Valor) for the Project: QLX Energy-Compute Nexus.
 
 Features:
 - Physical Precision: Direct mW monitoring on Apple Silicon (M1/M2/M3).
-- Cross-Platform: Load-based simulation for Windows and Linux.
+- GPU Acceleration: Native NVIDIA GPU telemetry (Power/Usage) via NVML.
+- Arbitrage Logic: Real-time calculation of compute-energy profitability spreads.
 - Secure Uplink: Modular telemetry streaming to the QLX Core.
 """
 

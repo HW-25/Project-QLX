@@ -118,3 +118,8 @@ The EON Monitor Lite is just the beginning. The full **QLX EON Nexus** will be a
 
 **Join us in fueling the next generation of intelligence.**
 
+### Change Log
+- **v1.3.1**: 
+    - Integrated **NVIDIA GPU** telemetry (power draw, utilization, and memory).
+    - Added **Energy-Compute Arbitrage** engine to calculate real-time profitability spreads.
+    - Improved system metrics for Apple Silicon (Mac) and Linux/Windows environments.

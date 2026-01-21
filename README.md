@@ -2,7 +2,7 @@
 
 **The Fuel for Intelligence: Bridging Green Energy and Verifiable Compute.**
 
-![EON Monitor Lite Dashboard Screenshot Placeholder](https://i.imgur.com/your-dashboard-screenshot-link.png)
+![EON Monitor Lite Dashboard](assets/screenshots/telemetry_v1.3.1.png)
 
 ---
 

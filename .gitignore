@@ -1,0 +1,6 @@
+*.key
+legacy/
+PR/
+nohup.out
+.DS_Store
+*.rtf

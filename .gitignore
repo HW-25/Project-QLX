@@ -4,3 +4,6 @@ PR/
 nohup.out
 .DS_Store
 *.rtf
+# QLX Core Infrastructure (Private)
+src/qlx_core.py
+src/qlx_network.db

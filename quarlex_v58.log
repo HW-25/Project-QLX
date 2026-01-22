@@ -1,0 +1,26 @@
+2026-01-21 20:24:38,496 - QuarlexCore - ERROR - Database initialization failed: module 'hashlib' has no attribute 'scrypt'
+2026-01-21 20:26:18,877 - QuarlexCore - ERROR - Database initialization failed: module 'hashlib' has no attribute 'scrypt'
+2026-01-21 20:26:23,890 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.21:5001
+2026-01-21 20:26:23,890 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-21 20:26:30,183 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:26:30] "GET / HTTP/1.1" 200 -
+2026-01-21 20:26:38,161 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:26:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-21 20:26:59,927 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:26:59] "GET / HTTP/1.1" 200 -
+2026-01-21 20:27:01,210 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:27:01] "GET / HTTP/1.1" 200 -
+2026-01-21 20:27:01,776 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:27:01] "GET / HTTP/1.1" 200 -
+2026-01-21 20:27:02,193 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:27:02] "GET / HTTP/1.1" 200 -
+2026-01-21 20:27:02,394 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:27:02] "GET / HTTP/1.1" 200 -
+2026-01-21 20:27:02,626 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:27:02] "GET / HTTP/1.1" 200 -
+2026-01-21 20:27:02,863 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:27:02] "GET / HTTP/1.1" 200 -
+2026-01-21 20:27:03,178 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:27:03] "GET / HTTP/1.1" 200 -
+2026-01-21 20:27:03,379 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:27:03] "GET / HTTP/1.1" 200 -
+2026-01-21 20:27:03,714 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:27:03] "GET / HTTP/1.1" 200 -
+2026-01-21 20:27:04,430 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:27:04] "GET / HTTP/1.1" 200 -
+2026-01-21 20:27:05,447 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:27:05] "GET / HTTP/1.1" 200 -
+2026-01-21 20:28:57,292 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:28:57] "GET / HTTP/1.1" 200 -
+2026-01-21 20:28:58,755 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:28:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-21 20:29:00,969 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:29:00] "GET /login HTTP/1.1" 200 -
+2026-01-21 20:30:45,274 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:30:45] "GET / HTTP/1.1" 200 -
+2026-01-21 20:30:45,794 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:30:45] "GET / HTTP/1.1" 200 -

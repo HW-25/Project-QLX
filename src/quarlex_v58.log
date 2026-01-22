@@ -1,0 +1,19 @@
+2026-01-21 20:02:58,062 - QuarlexCore - ERROR - Database initialization failed: module 'hashlib' has no attribute 'scrypt'
+2026-01-21 20:03:03,074 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.21:5000
+2026-01-21 20:03:03,075 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-21 20:03:08,624 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:03:08] "[32mGET / HTTP/1.1[0m" 302 -
+2026-01-21 20:03:08,632 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:03:08] "GET /login HTTP/1.1" 200 -
+2026-01-21 20:03:08,669 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:03:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-21 20:03:24,810 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:03:24] "POST /login HTTP/1.1" 200 -
+2026-01-21 20:03:30,358 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:03:30] "POST /login HTTP/1.1" 200 -
+2026-01-21 20:06:32,631 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:06:32] "GET /login HTTP/1.1" 200 -
+2026-01-21 20:06:39,638 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:06:39] "POST /login HTTP/1.1" 200 -
+2026-01-21 20:09:42,244 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:09:42] "POST /login HTTP/1.1" 200 -
+2026-01-21 20:11:12,745 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:11:12] "POST /login HTTP/1.1" 200 -
+2026-01-21 20:12:26,088 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:12:26] "GET /login HTTP/1.1" 200 -
+2026-01-21 20:12:27,732 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:12:27] "GET /login HTTP/1.1" 200 -
+2026-01-21 20:12:31,251 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:12:31] "[32mGET / HTTP/1.1[0m" 302 -
+2026-01-21 20:12:31,256 - werkzeug - INFO - 127.0.0.1 - - [21/Jan/2026 20:12:31] "GET /login HTTP/1.1" 200 -
